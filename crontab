@@ -1,0 +1,2 @@
+# root_crontab
+* * * * * /opt/project/backend.general.utils.cron.get_validators_job, >> /cron/django_cron.log 2>&1
